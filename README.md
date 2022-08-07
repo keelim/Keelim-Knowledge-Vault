@@ -14,12 +14,13 @@
 #### 13 (API 33)[[Android 13]]
 
 ## Kotlin
+- 코틀린 연산자[[코틀린 연산자]]
 ### Coroutine
 - Dispatcher
-- suspend
-### Flow
-- StateFlow
-- SharedFlow
-- Channel
+- suspend function [[suspend function 중단함수]]
+### Flow[[Flow]]
+- StateFlow[[StateFlow]]
+- SharedFlow[[SharedFlow]]
+- Channel[[Channel]]
 ### Compose
 - 
