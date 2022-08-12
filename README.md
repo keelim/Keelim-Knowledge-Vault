@@ -1,5 +1,7 @@
 # Keelim-Knowledge-Vault
 ![graph](./res/nodes.png)
+## 좋은 개발자가 되는 법
+- 소프트 스킬을 늘려보자, 다양한 생각을 들어보자
 ## Books
 - Effective Kotlin[[effective_kotlin]]
 - 안드로이드 프로그래밍 Next Step[[Android Next Step]]
