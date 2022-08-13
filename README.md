@@ -18,9 +18,9 @@
 - 코틀린 연산자 [[데이터를 다루는 연산자]]
 - inline, noinline, crossinline [[inline, noinline, crossline]]
 ### Coroutine
-- Dispatcher
+- Dispatcher 
 - suspend function [[suspend function 중단함수]]
-### Flow[[Flow]]
+### Flow [[Flow]]
 - StateFlow [[StateFlow]]
 - SharedFlow [[SharedFlow]]
 - Channel [[Channel]]
