@@ -25,8 +25,11 @@
 - SharedFlow [[SharedFlow]]
 - Channel [[Channel]]
 ### Compose
-- Glance
-- 
+- Glance /  Widget
+
+## Material
+- Bottom App Bar
+- Floation Action Button
 ## 좋은 개발자가 되는 법
 - 소프트 스킬을 늘려보자, 다양한 생각을 들어보자
 ## Todo
