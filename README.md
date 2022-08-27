@@ -1,11 +1,7 @@
 # Keelim-Knowledge-Vault
 ![graph](./res/nodes.png)
 
-## Books
-- Effective Kotlin [[effective_kotlin]]
-- 안드로이드 프로그래밍 Next Step [[Android Next Step]]
-- 프로페셔널 안드로이드
-
+## Books [[Books]]
 ## Android
 - Dynamic module (동적 모듈) [[Dynamic Feature Module]]
 - Gradle, Kotlin DSL [[Gradle]]
