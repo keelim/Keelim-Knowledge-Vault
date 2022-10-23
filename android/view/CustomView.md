@@ -13,3 +13,9 @@ CustomView 에서 제일 중요한 3가지 함수는 아래 3함수이다.
 ## View Update
 - invalidate()
 - requestLayout()
+
+## ViewSlop [[Viewslop]]
+
+## Reference 
+https://developer.android.com/reference/android/view/View
+https://developer.android.com/develop/ui/views/layout/custom-views/custom-components

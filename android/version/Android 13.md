@@ -13,3 +13,5 @@ inline fun <reified T> Bundle.parcelable(key: String, clazz: Class<T>): T? = whe
   else -> @Suppress("DEPRECATION") getParcelable(key) as? T
 }
 ```
+
+## Privacy SandBox 
