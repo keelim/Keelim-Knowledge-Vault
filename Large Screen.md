@@ -1,0 +1,7 @@
+- Automated Test Devices
+- Desktop emulator
+- Gradle Managed Devices with Firebase Test Lab support
+- Jetpack Compose Multipreview
+- References Devices
+- Resizable Emulator
+- Visual Lint

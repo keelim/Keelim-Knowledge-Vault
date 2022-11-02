@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "e70dfcc67826cd48",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b5a094f9fd69d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6d9b849d954075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "334037b91aa47ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52a5a4e018b4881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10cf7f69011f1a48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5693a445ce087079",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f7c03a9ce09b1a6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181
+  },
+  "right": {
+    "id": "ed37584d7848e596",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d3d8572ba6c466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d911087dd063fec8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39e1c4b65fd916b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9cf6168e0e875c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f05ff8a40561e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3a6d9b849d954075",
+  "lastOpenFiles": [
+    "Large Screen.md",
+    "WearOS.md",
+    "res/nodes.png",
+    "res/Pasted image 20221103003038.png",
+    "README.md",
+    "android/Android Dev Summit ‘22.md",
+    "android/Android.md",
+    "android/version/Android Version.md",
+    "android/version/Android 13.md",
+    "Pasted image 20221103003040.png.md"
+  ]
+}

@@ -15,3 +15,12 @@ inline fun <reified T> Bundle.parcelable(key: String, clazz: Class<T>): T? = whe
 ```
 
 ## Privacy SandBox 
+
+---
+- Personalization
+  ![[Pasted image 20221103003038.png]]
+- Photo picker API
+- notification permission request
+- Android SDK Upgrade Assistant
+- AppCompat libraries
+- SDK Extensions
