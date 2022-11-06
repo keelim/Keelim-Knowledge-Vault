@@ -7,7 +7,7 @@
 - Large Screren [[Large Screen]]
 - Android 13 [[Android 13]]
 ---
-- Top 3 picks from Modern Android Development at ADS ‘22[[Top 3 picks from Modern Android Development at ADS ‘22]]
+- **Top 3 picks from Modern Android Development at ADS ‘22**[[Top 3 picks from Modern Android Development at ADS ‘22]] 
 - Modern Android Deevlopment AskAndroid [[Modern Android Development AskAndroid]]
 - Reimagining designer-developer handoff: Introducing Relay [[Reimagining designer developer handogg introducing Relay]]
 - More performance tips for jetpack compose [[More performance tips for jetpack compose]]

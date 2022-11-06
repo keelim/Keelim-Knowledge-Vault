@@ -1,0 +1,11 @@
+- Jetpack Compose [[Compose]]
+	- Lazy staggered grids
+	- Variable fonts
+	- pull to refresh
+	- Snapping in lazy lists
+	- Draw text in Canvas
+	- Url annotations in text
+	- Hyphenation
+	- LookAHeadLayout
+- Baseline Profiles [[Baseline Profile]]
+- Architecture Guidance 
