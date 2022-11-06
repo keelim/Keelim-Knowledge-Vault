@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b5a094f9fd69d1",
+        "id": "a94edcc317c474f7",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6d9b849d954075",
+            "id": "25a211f35b621cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "android/Write your first Compose UI test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b1397d79d73ac75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/WearOS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "android/WearOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "android/WearOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "android/WearOS.md"
               }
             }
           }
@@ -136,20 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "3a6d9b849d954075",
+  "active": "0b1397d79d73ac75",
   "lastOpenFiles": [
-    "Large Screen.md",
-    "WearOS.md",
-    "res/nodes.png",
-    "res/Pasted image 20221103003038.png",
+    "android/Making apps blazing fast with Baseline Profiles.md",
+    "android/Reimagining designer developer handogg introducing Relay.md",
+    "android/Practical room migrations.md",
     "README.md",
-    "android/Android Dev Summit ‘22.md",
+    "android/Write your first Compose UI test.md",
     "android/Android.md",
-    "android/version/Android Version.md",
-    "android/version/Android 13.md",
-    "Pasted image 20221103003040.png.md"
+    "2022-11-06.md",
+    "android/Android Dev Summit ‘22.md",
+    "android/Android Dev Summit '22 Keynote & Modern Android Development Track Livestream.md",
+    "android/Android Developer Story ZEPETO plans to migrate 80% of the app’s UI to Jetpack Compose.md"
   ]
 }
