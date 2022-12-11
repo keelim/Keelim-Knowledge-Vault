@@ -1,5 +1,5 @@
 # Keelim-Knowledge-Vault
-![graph](./res/nodes.png)
+![graph](nodes.png)
 
 ## Books [[Books]]
 ## Computer Science [[Computer Science]]
