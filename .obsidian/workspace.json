@@ -4,95 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab15194bbeee57a",
+        "id": "8a875fd39a4a3c15",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ba0b1eee0a38c7",
+            "id": "1d713fddb2b60a9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "books/Books.md",
-=======
-                "file": "android/Android Dev Summit ‘22.md",
->>>>>>> master
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-<<<<<<< HEAD
-            "id": "dabad9c120cc97d5",
-=======
-            "id": "bcd19083d2c0fb7c",
->>>>>>> master
+            "id": "b11ccd062f80e40c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "android/Android.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "2d7b4aa2ddc52173",
+            "id": "b0b35d26b19c51ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/Large Screen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa577e530121d2ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/Android.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aa6023664a5d806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/Android Developers Docs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d969dd58fcaae839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guide to app architecture.md",
-=======
-                "file": "Room.md",
->>>>>>> master
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442,
-    "collapsed": true
+    "width": 181
   },
   "right": {
     "id": "ed37584d7848e596",
@@ -159,11 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Guide to app architecture.md",
-=======
-                "file": "android/Android Dev Summit ‘22.md",
->>>>>>> master
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,11 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Guide to app architecture.md",
-=======
-                "file": "android/Android Dev Summit ‘22.md",
->>>>>>> master
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,13 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Guide to app architecture.md"
-=======
-                "file": "android/Android Dev Summit ‘22.md"
->>>>>>> master
-              }
+              "state": {}
             }
           }
         ]
@@ -222,32 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "d969dd58fcaae839",
+  "active": "10cf7f69011f1a48",
   "lastOpenFiles": [
-    "res/typical app architecture.png",
-    "res/Pasted image 20221103003038.png",
-    "Guide to app architecture.md",
-    "android/Android Developers Docs.md",
-    "android/Android.md",
-    "android/version/Android 13.md",
-    "README.md",
-    "android/Large Screen.md",
-    "android/Large screens - tablets, Chromebooks, foldables.md",
-    "android/WearOS.md"
-=======
-  "active": "c6ba0b1eee0a38c7",
-  "lastOpenFiles": [
-    "android/Test at scale with Gradle managed devices.md",
-    "android/Android Dev Summit ‘22.md",
-    "android/From Views to Compose Where can I start.md",
-    "android/5 ways Compose improves UI testing.md",
-    "android/5 Android Studio features you don't want to miss.md",
-    "android/Making apps blazing fast with Baseline Profiles.md",
-    "android/Material You in Compose apps.md",
-    "android/Address Firebase Crashlytics reports faster from Android Studio.md",
-    "Firebase.md",
-    "android/Practical room migrations.md"
->>>>>>> master
+    "docs/Guide to app architecture.md",
+    "docs/Room.md",
+    "docs/android/library/Coil.md",
+    "docs/cs/Network/gRPC.md",
+    "docs/android/library/Library.md",
+    "docs/android/Android.md",
+    "docs/cs/Network/Network.md",
+    "Content.md",
+    "docs/android/Android Annotation.md",
+    "docs/android/Intent.md"
   ]
 }
