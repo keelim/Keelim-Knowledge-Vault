@@ -24,3 +24,9 @@ inline fun <reified T> Bundle.parcelable(key: String, clazz: Class<T>): T? = whe
 - Android SDK Upgrade Assistant
 - AppCompat libraries
 - SDK Extensions
+
+---
+## Android 13 적용
+
+### 참고  문헌
+- https://blog.esper.io/android-13-deep-dive/
