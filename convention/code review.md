@@ -1,0 +1,4 @@
+- commit
+- push
+	- force push
+- 

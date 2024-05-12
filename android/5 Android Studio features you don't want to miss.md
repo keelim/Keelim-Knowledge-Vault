@@ -1,9 +1,0 @@
-- Network request interception
-	- 따로 이제 3rd 파티를 사용하는 것이 아니라 안드로이드 스튜디오에서 네트워크 정보를 확인하고 헤더가 같은 정보들을 조절할 수 있다. 
-- Downloads impact
-	- 빌드에서 빠른 설정을 할 수 있도록 dynamic version 같은 것들을 어떻게 처리해야 하는지를 보여준다.
-- Android SDK version upgrade
-	- 안드로이드 SDK 버전을 올리는데 있어서 좋은 기능
-- Phsical device mirroring
-- Emulator bluetooth support
-	- 이제 에뮬에서도 블루투스를 지원한다. 

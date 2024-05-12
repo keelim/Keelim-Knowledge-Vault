@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a875fd39a4a3c15",
+        "id": "eeeec0afa257b069",
         "type": "tabs",
         "children": [
           {
-            "id": "1d713fddb2b60a9d",
+            "id": "781ddb29a72f949e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b11ccd062f80e40c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0b35d26b19c51ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Other/Build/Gradle.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "ab104b511f3a2800",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Other/Build/Gradle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Other/Build/Gradle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Other/Build/Gradle.md"
+              }
             }
           }
         ]
@@ -145,17 +144,50 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "10cf7f69011f1a48",
   "lastOpenFiles": [
-    "docs/Guide to app architecture.md",
-    "docs/Room.md",
-    "docs/android/library/Coil.md",
-    "docs/cs/Network/gRPC.md",
-    "docs/android/library/Library.md",
-    "docs/android/Android.md",
-    "docs/cs/Network/Network.md",
-    "Content.md",
-    "docs/android/Android Annotation.md",
-    "docs/android/Intent.md"
+    "Other/Build/Bazile.md",
+    "Other/Build/Gradle.md",
+    "Other/Build",
+    "Android/Library/Hilt.md",
+    "Android/Custom layouts and graphics in Compose.md",
+    "Android/Create offline-first apps.md",
+    "Android/Android Developers Docs.md",
+    "Android/Device compatibility.md",
+    "Android/Large Screen.md",
+    "Android/Keyword.md",
+    "Android/Library/Kotlin Serialization.md",
+    "Android/Material You in Compose apps.md",
+    "Android/Component/Dynamic Feature Module.md",
+    "Android/Component/Baseline Profile.md",
+    "Android/Component/App manifest file.md",
+    "Android/Component/Fragment.md",
+    "Android/Jetpack.md",
+    "Android/Component/Intent.md",
+    "Android/Component",
+    "Android/Library/Room.md",
+    "Android/Practical room migrations.md",
+    "Android/More performance tips for jetpack compose.md",
+    "Android/Modern Android Development AskAndroid.md",
+    "Android/Reimagining designer developer handogg introducing Relay.md",
+    "Android/Test at scale with Gradle managed devices.md",
+    "Android/Write your first Compose UI test.md",
+    "Android/Where to hoist that state in Compose?.md",
+    "Computer Science/Operation System",
+    "Computer Science/Database",
+    "Computer Science/Data Structure",
+    "Computer Science/Algorithms",
+    "Other",
+    "res/Pasted image 20221106231715.png"
   ]
 }

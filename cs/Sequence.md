@@ -1,1 +1,0 @@
-Sequence 는 Stream [[Stream]]과 다르게 

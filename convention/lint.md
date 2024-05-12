@@ -1,0 +1,2 @@
+- android lint
+- ktlint

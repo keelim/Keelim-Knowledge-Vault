@@ -1,3 +1,2 @@
-- Performance
 - App or library
 - Stable toolchain
