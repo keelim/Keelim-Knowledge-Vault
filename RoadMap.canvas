@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"0325dcf7f4dee7ae","type":"text","text":"Services \nRoadMap","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"d434563fcf17b169","type":"file","file":"service/auth/Auth.md","x":-200,"y":120,"width":400,"height":400},
+		{"id":"d2162ed830cd6573","type":"file","file":"service/network/Network.md","x":320,"y":-100,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e02bc4585bf40aa6","fromNode":"0325dcf7f4dee7ae","fromSide":"bottom","toNode":"d434563fcf17b169","toSide":"top"},
+		{"id":"72c852ea4199e046","fromNode":"0325dcf7f4dee7ae","fromSide":"right","toNode":"d2162ed830cd6573","toSide":"left"}
+	]
+}

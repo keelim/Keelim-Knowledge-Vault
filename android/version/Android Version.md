@@ -1,2 +1,0 @@
-- Android 12 (SDK 31, 32) [[Android 12]]
-- Android 13 (SDK 33) [[Android 13]]

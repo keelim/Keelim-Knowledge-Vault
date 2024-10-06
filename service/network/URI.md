@@ -1,0 +1,17 @@
+- URI
+	- scheme
+	- path
+	- authority
+	- query
+- URL
+	- scheme
+	- domain name
+	- port
+	- path to file
+	- query
+	- anchor, fragments
+- URN
+	- scheme
+	- namespace
+	- namespace specific string
+

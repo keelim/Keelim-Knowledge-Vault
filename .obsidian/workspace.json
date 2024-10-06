@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eeeec0afa257b069",
+        "id": "081cc9ec223ef40e",
         "type": "tabs",
         "children": [
           {
-            "id": "781ddb29a72f949e",
+            "id": "914cd01a2ae62977",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Build/Gradle.md",
+                "file": "Books/Jetpack Compose Internals.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181
+    "width": 200
   },
   "right": {
     "id": "ed37584d7848e596",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Build/Gradle.md",
+                "file": "Books/Jetpack Compose Internals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Build/Gradle.md",
+                "file": "Books/Jetpack Compose Internals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Build/Gradle.md"
+                "file": "Books/Jetpack Compose Internals.md"
               }
             }
           }
@@ -156,38 +156,45 @@
   },
   "active": "10cf7f69011f1a48",
   "lastOpenFiles": [
-    "Other/Build/Bazile.md",
-    "Other/Build/Gradle.md",
-    "Other/Build",
-    "Android/Library/Hilt.md",
-    "Android/Custom layouts and graphics in Compose.md",
-    "Android/Create offline-first apps.md",
-    "Android/Android Developers Docs.md",
-    "Android/Device compatibility.md",
-    "Android/Large Screen.md",
-    "Android/Keyword.md",
-    "Android/Library/Kotlin Serialization.md",
-    "Android/Material You in Compose apps.md",
-    "Android/Component/Dynamic Feature Module.md",
-    "Android/Component/Baseline Profile.md",
-    "Android/Component/App manifest file.md",
-    "Android/Component/Fragment.md",
-    "Android/Jetpack.md",
-    "Android/Component/Intent.md",
-    "Android/Component",
-    "Android/Library/Room.md",
-    "Android/Practical room migrations.md",
-    "Android/More performance tips for jetpack compose.md",
-    "Android/Modern Android Development AskAndroid.md",
-    "Android/Reimagining designer developer handogg introducing Relay.md",
-    "Android/Test at scale with Gradle managed devices.md",
-    "Android/Write your first Compose UI test.md",
-    "Android/Where to hoist that state in Compose?.md",
-    "Computer Science/Operation System",
-    "Computer Science/Database",
-    "Computer Science/Data Structure",
-    "Computer Science/Algorithms",
-    "Other",
+    "Books/Books.md",
+    "Books/Jetpack Compose Internals.md",
+    "README.md",
+    "Untitled.canvas",
+    "Index.md",
+    "service/network/HTTP.md",
+    "Code/Code.md",
+    "service/auth/Auth.md",
+    "SSO.md",
+    "service/network/http3.md",
+    "Other/Security/Security.md",
+    "PINNING.md",
+    "Asymmetric Encryption.md",
+    "Symmetric Encryption.md",
+    "Other/Security/Android KeyStore.md",
+    "Language/Kotlin/데이터를 다루는 연산자.md",
+    "service/network/URI.md",
+    "Code/VIPER.md",
+    "Code/MVC.md",
+    "Code/MVP.md",
+    "Code/MVVM.md",
+    "Code/MVI.md",
+    "RoadMap.canvas",
+    "Android.md",
+    "Code/Singleton.md",
+    "Code/Iterator.md",
+    "Code/Abstract Factory.md",
+    "Code/Adapter.md",
+    "Code",
+    "HTTP",
+    "service/network",
+    "service/auth",
+    "service",
+    "Untitled 1.canvas",
+    "Language/Kotlin/Version",
+    "Other/Security",
+    "Other/Services",
+    "Other/Conference/Google IO 2024",
+    "KMM",
     "res/Pasted image 20221106231715.png"
   ]
 }

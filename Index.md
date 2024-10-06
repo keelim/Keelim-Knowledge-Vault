@@ -1,0 +1,111 @@
+- Smoke Test
+- kafka
+- elastic
+- redis
+- OSI 7계층
+	1. Physical Layer
+	2. Data Link Layer
+	3. Network Layer
+	4. Transport Layer
+	5. Session Layer
+	6. Presentation Layer
+	7. Application Layer
+- http
+- tcp/ip
+- compress
+- payload
+- pagination
+- Connection pool
+- GC
+	- Stop the world
+- docker
+	- docker registry
+	- docker image
+	- VM
+	- Container
+	- 
+- Kubernetes
+- k8s
+- Context Switching
+- ACID
+	- Atomicity
+	- Consistency
+	- Isolation
+	- Durability
+- API Gateway
+	- HTTP Request
+	- Parameter Validation
+	- Whitelist Blacklist
+	- Authentication Authorization
+	- Rate Limit
+	- Dynamic Routing
+	- Service Discovery
+	- Protocol Conversion
+	- Error Handling
+	- Circuit Break
+	- Loggin Monitoring
+	- Cache
+- BFF
+- Load Balancer
+- DB Sharding
+- otel
+- metric
+- Simple
+- failover
+- Geolocation
+- Latency
+- Multivalue answer
+- Weighted
+- Cookie
+- Session
+- RabbitMQ
+- ClusterIP
+- NodePort
+- LoadBalancer
+- ExternalName
+- Forward Proxy
+- Reserve Proxy
+- password
+- salt
+- microservice architecture
+- CDN
+- Cloudflare
+- orange cloud
+- SQS
+- cache
+	- cache aside
+	- Read Through
+	- Write Around
+	- Write Back
+	- Write through
+- data dog
+- grafana
+- open telemetry
+- OTP
+---
+- Consistent Hashing
+- Geohash
+- QuadTree
+- leacky bucket
+- token bucket
+- trie
+- Bloomfilter
+- Raft/paxos
+---
+- Web server
+- mail server
+- dns server
+- proxy server
+- ftp server 
+- origin server
+---
+- ArgoCD
+- Memcached
+- CRUD
+	- CREATE
+	- READ
+	- UPDATE
+	- DELETE
+- ssh
+- CDN
+- 

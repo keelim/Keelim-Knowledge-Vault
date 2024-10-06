@@ -2,3 +2,5 @@
 - Effective Kotlin [[effective_kotlin]]
 - Software Engineering at Google [[Software Engineering at Google]]
 - Kotlin Coroutines Deep Dive[[Kotlin Coroutines Deep Dive]]
+- Jetpack Compose Internals [[Jetpack Compose Internals]]
+- 
