@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Jetpack Compose Internals.md",
+                "file": "Books/Jetpack Compose Internals/1. Composable functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Jetpack Compose Internals.md",
+                "file": "Books/Jetpack Compose Internals/1. Composable functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Jetpack Compose Internals.md",
+                "file": "Books/Jetpack Compose Internals/1. Composable functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Jetpack Compose Internals.md"
+                "file": "Books/Jetpack Compose Internals/1. Composable functions.md"
               }
             }
           }
@@ -154,10 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10cf7f69011f1a48",
+  "active": "914cd01a2ae62977",
   "lastOpenFiles": [
+    "Books/Jetpack Compose Internals/Jetpack Compose Internals.md",
+    "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
+    "Books/Android Next Step.md",
+    "Books/Jetpack Compose Internals/6. Effects and effect handlers.md",
+    "Books/Jetpack Compose Internals/5. State snapshot system.md",
+    "Books/Jetpack Compose Internals/4. Compose UI.md",
+    "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
+    "Books/Jetpack Compose Internals/2. The Compose Compiler.md",
+    "Books/Jetpack Compose Internals/1. Composable functions.md",
     "Books/Books.md",
-    "Books/Jetpack Compose Internals.md",
+    "Books/effective_kotlin.md",
+    "Untitled.md",
+    "Books/Jetpack Compose Internals",
     "README.md",
     "Untitled.canvas",
     "Index.md",
@@ -173,17 +184,7 @@
     "Other/Security/Android KeyStore.md",
     "Language/Kotlin/데이터를 다루는 연산자.md",
     "service/network/URI.md",
-    "Code/VIPER.md",
-    "Code/MVC.md",
-    "Code/MVP.md",
-    "Code/MVVM.md",
-    "Code/MVI.md",
     "RoadMap.canvas",
-    "Android.md",
-    "Code/Singleton.md",
-    "Code/Iterator.md",
-    "Code/Abstract Factory.md",
-    "Code/Adapter.md",
     "Code",
     "HTTP",
     "service/network",
@@ -194,7 +195,6 @@
     "Other/Security",
     "Other/Services",
     "Other/Conference/Google IO 2024",
-    "KMM",
     "res/Pasted image 20221106231715.png"
   ]
 }
