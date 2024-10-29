@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ad5d5b1d4488f4e5",
+        "id": "75282c25fed6f438",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8a53c69df205a3",
+            "id": "b6097d72e63c7ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kotlin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,10 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e8a53c69df205a3",
+  "active": "b6097d72e63c7ae6",
   "lastOpenFiles": [
+    "Language/Kotlin/Compose/Compose Internal Keyword.md",
+    "Applier.md",
+    "Change List.md",
+    "Slot Table.md",
+    "Gap Buffer.md",
+    "Language/Kotlin/Compose/Compose.md",
     "Books/Jetpack Compose Internals/2. The Compose Compiler.md",
+    "Books/Jetpack Compose Internals/1. Composable functions.md",
     "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
+    "Untitled.md",
     "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
     "RoadMap.canvas",
     "compose compiler ir.png",
@@ -183,8 +191,6 @@
     "Language/Kotlin/Kotlin.md",
     "Language/Kotlin/Kotlin stdlib.md",
     "Language/Kotlin/ksp.md",
-    "Language/Kotlin/Compose/Compose.md",
-    "Books/Jetpack Compose Internals/1. Composable functions.md",
     "Books/Jetpack Compose Internals/Jetpack Compose Internals.md",
     "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
     "Books/Android Next Step.md",
@@ -193,7 +199,6 @@
     "Books/Jetpack Compose Internals/4. Compose UI.md",
     "Books/Books.md",
     "Books/effective_kotlin.md",
-    "Untitled.md",
     "Books/Jetpack Compose Internals",
     "README.md",
     "Untitled.canvas",
@@ -201,10 +206,6 @@
     "service/network/HTTP.md",
     "Code/Code.md",
     "service/auth/Auth.md",
-    "SSO.md",
-    "service/network/http3.md",
-    "Other/Security/Security.md",
-    "PINNING.md",
     "Code",
     "HTTP",
     "service/network",
