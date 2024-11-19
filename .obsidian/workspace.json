@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
+                "file": "Books/Jetpack Compose Internals/4. Compose UI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. The Compose Runtime"
+              "title": "4. Compose UI"
+            }
+          },
+          {
+            "id": "eff6ab201f95ff46",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,8 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6097d72e63c7ae6",
+  "active": "eff6ab201f95ff46",
   "lastOpenFiles": [
+    "Books/Jetpack Compose Internals/5. State snapshot system.md",
+    "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
     "Language/Kotlin/Compose/Compose Internal Keyword.md",
     "Applier.md",
     "Change List.md",
@@ -182,7 +197,6 @@
     "Language/Kotlin/Compose/Compose.md",
     "Books/Jetpack Compose Internals/2. The Compose Compiler.md",
     "Books/Jetpack Compose Internals/1. Composable functions.md",
-    "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
     "Untitled.md",
     "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
     "RoadMap.canvas",
@@ -195,7 +209,6 @@
     "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
     "Books/Android Next Step.md",
     "Books/Jetpack Compose Internals/6. Effects and effect handlers.md",
-    "Books/Jetpack Compose Internals/5. State snapshot system.md",
     "Books/Jetpack Compose Internals/4. Compose UI.md",
     "Books/Books.md",
     "Books/effective_kotlin.md",
