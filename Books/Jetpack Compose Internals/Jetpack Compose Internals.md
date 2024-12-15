@@ -1,7 +1,7 @@
-## Composable functions 
-## The Compose Compiler
-## The Compose Runtime
-## Compose UI
-## State snapshot system
-## Effects and effect handlers
-## Advanced Compose Runtime use cases
+## Composable functions [[1. Composable functions]]
+## The Compose Compiler [[2. The Compose Compiler]]
+## The Compose Runtime [[3. The Compose Runtime]]
+## Compose UI [[4. Compose UI]]
+## State snapshot system [[5. State snapshot system]]
+## Effects and effect handlers [[6. Effects and effect handlers]]
+## Advanced Compose Runtime use cases [[7. Advanced Compose Runtime use cases]]

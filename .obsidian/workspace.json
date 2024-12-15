@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "75282c25fed6f438",
+        "id": "e6bbcfa14711b696",
         "type": "tabs",
         "children": [
           {
-            "id": "b6097d72e63c7ae6",
+            "id": "a0e1b9cf0ed163ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Jetpack Compose Internals/4. Compose UI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. Compose UI"
-            }
-          },
-          {
-            "id": "eff6ab201f95ff46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Jetpack Compose Internals/4. Compose UI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Compose UI"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +39,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -85,7 +66,7 @@
               "type": "starred",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -102,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ed37584d7848e596",
@@ -118,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
+                "file": "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. The Compose Runtime"
+              "title": "7. Advanced Compose Runtime use cases의 백링크"
             }
           },
           {
@@ -164,31 +146,53 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Jetpack Compose Internals/3. The Compose Runtime.md"
+                "file": "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. The Compose Runtime"
+              "title": "7. Advanced Compose Runtime use cases 개요"
+            }
+          },
+          {
+            "id": "4fbb5953c2d23764",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 634.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eff6ab201f95ff46",
+  "active": "a0e1b9cf0ed163ca",
   "lastOpenFiles": [
+    "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
+    "Books/Jetpack Compose Internals/Jetpack Compose Internals.md",
+    "Books/Jetpack Compose Internals/6. Effects and effect handlers.md",
+    "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
+    "Books/Android Next Step.md",
+    "Books/Jetpack Compose Internals/4. Compose UI.md",
+    "AI/keelim-ai/AI.md",
+    "AI/keelim-ai/Welcome.md",
+    "AI/keelim-ai",
+    "AI/note",
+    "Untitled.md",
     "Books/Jetpack Compose Internals/5. State snapshot system.md",
     "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
     "Language/Kotlin/Compose/Compose Internal Keyword.md",
@@ -199,28 +203,18 @@
     "Language/Kotlin/Compose/Compose.md",
     "Books/Jetpack Compose Internals/2. The Compose Compiler.md",
     "Books/Jetpack Compose Internals/1. Composable functions.md",
-    "Untitled.md",
-    "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
     "RoadMap.canvas",
     "compose compiler ir.png",
     "Pasted image 20241025013926.png",
     "Language/Kotlin/Kotlin.md",
     "Language/Kotlin/Kotlin stdlib.md",
     "Language/Kotlin/ksp.md",
-    "Books/Jetpack Compose Internals/Jetpack Compose Internals.md",
-    "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
-    "Books/Android Next Step.md",
-    "Books/Jetpack Compose Internals/6. Effects and effect handlers.md",
-    "Books/Jetpack Compose Internals/4. Compose UI.md",
     "Books/Books.md",
     "Books/effective_kotlin.md",
     "Books/Jetpack Compose Internals",
     "README.md",
     "Untitled.canvas",
     "Index.md",
-    "service/network/HTTP.md",
-    "Code/Code.md",
-    "service/auth/Auth.md",
     "Code",
     "HTTP",
     "service/network",
@@ -229,8 +223,6 @@
     "Untitled 1.canvas",
     "Language/Kotlin/Version",
     "Other/Security",
-    "Other/Services",
-    "Other/Conference/Google IO 2024",
     "res/Pasted image 20221106231715.png"
   ]
 }
