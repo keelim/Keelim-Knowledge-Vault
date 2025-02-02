@@ -1,11 +1,17 @@
 {
 	"nodes":[
-		{"id":"0325dcf7f4dee7ae","type":"text","text":"Services \nRoadMap","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"d434563fcf17b169","type":"file","file":"service/auth/Auth.md","x":-200,"y":120,"width":400,"height":400},
-		{"id":"d2162ed830cd6573","type":"file","file":"service/network/Network.md","x":320,"y":-100,"width":400,"height":400}
+		{"id":"d2162ed830cd6573","type":"file","file":"service/network/Network.md","x":320,"y":-100,"width":400,"height":400},
+		{"id":"ebe12aa841e44e7e","x":0,"y":-360,"width":250,"height":180,"type":"text","text":"## Web\n[[OgTag]]"},
+		{"id":"ffe292038cdc99b5","x":-400,"y":-270,"width":250,"height":60,"type":"text","text":"## AI\n"},
+		{"id":"30906952ffff0fd2","x":-512,"y":-79,"width":250,"height":60,"type":"text","text":"## Architecture\n"},
+		{"id":"0325dcf7f4dee7ae","type":"text","text":"Services \nRoadMap","x":-125,"y":-49,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"e02bc4585bf40aa6","fromNode":"0325dcf7f4dee7ae","fromSide":"bottom","toNode":"d434563fcf17b169","toSide":"top"},
-		{"id":"72c852ea4199e046","fromNode":"0325dcf7f4dee7ae","fromSide":"right","toNode":"d2162ed830cd6573","toSide":"left"}
+		{"id":"72c852ea4199e046","fromNode":"0325dcf7f4dee7ae","fromSide":"right","toNode":"d2162ed830cd6573","toSide":"left"},
+		{"id":"c165857fb7702aa8","fromNode":"0325dcf7f4dee7ae","fromSide":"top","toNode":"ebe12aa841e44e7e","toSide":"bottom"},
+		{"id":"aea7c759ceef2222","fromNode":"0325dcf7f4dee7ae","fromSide":"top","toNode":"ffe292038cdc99b5","toSide":"bottom"},
+		{"id":"ce2d7347d36cd0af","fromNode":"30906952ffff0fd2","fromSide":"right","toNode":"0325dcf7f4dee7ae","toSide":"left"}
 	]
 }

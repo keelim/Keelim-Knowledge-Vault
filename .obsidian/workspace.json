@@ -11,10 +11,14 @@
             "id": "a0e1b9cf0ed163ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PINNING.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "PINNING"
             }
           }
         ]
@@ -83,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ed37584d7848e596",
@@ -167,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5
+    "width": 634.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +186,19 @@
   },
   "active": "a0e1b9cf0ed163ca",
   "lastOpenFiles": [
+    "Android.md",
+    "RoadMap.canvas",
+    "OgTag.md",
+    "PINNING.md",
+    "Index.md",
+    "Change List.md",
+    "Asymmetric Encryption.md",
+    "Symmetric Encryption.md",
+    "SSO.md",
+    "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
     "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
     "Books/Jetpack Compose Internals/Jetpack Compose Internals.md",
     "Books/Jetpack Compose Internals/6. Effects and effect handlers.md",
-    "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
     "Books/Android Next Step.md",
     "Books/Jetpack Compose Internals/4. Compose UI.md",
     "AI/keelim-ai/AI.md",
@@ -197,24 +210,16 @@
     "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
     "Language/Kotlin/Compose/Compose Internal Keyword.md",
     "Applier.md",
-    "Change List.md",
     "Slot Table.md",
     "Gap Buffer.md",
     "Language/Kotlin/Compose/Compose.md",
     "Books/Jetpack Compose Internals/2. The Compose Compiler.md",
     "Books/Jetpack Compose Internals/1. Composable functions.md",
-    "RoadMap.canvas",
     "compose compiler ir.png",
     "Pasted image 20241025013926.png",
     "Language/Kotlin/Kotlin.md",
-    "Language/Kotlin/Kotlin stdlib.md",
-    "Language/Kotlin/ksp.md",
-    "Books/Books.md",
-    "Books/effective_kotlin.md",
     "Books/Jetpack Compose Internals",
-    "README.md",
     "Untitled.canvas",
-    "Index.md",
     "Code",
     "HTTP",
     "service/network",
