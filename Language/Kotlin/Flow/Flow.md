@@ -19,8 +19,6 @@ flow {}
 
 ### 기타 연산자
 - flowOn
-- buffer
-- conflate
 - collectLatest
 - flatMapConcat
 - flattenConcat
@@ -31,6 +29,14 @@ flow {}
 - onCompletion
 - onEach
 - launchIn
+- buffer
+	- 메모리 아끼면서 모드 value 를 핸들링해야 할때 사용
+- conflate
+	- 최신 값만이 필요할때 사용
+- debounce
+	- 빠른 이벤트와 셋팅 시간이 필요할때 사용
+- sample
+	- interval time 이 필요할때 사용
 
 ### 종류
 - StateFlow[[StateFlow]]
