@@ -1,12 +1,6 @@
-## API, IMPLEMENTATION
-
-## Version Catalog, BuildSrc
-
-## Proguard
-
-## Task
-
-## Signing 
-
-## Kotlin DSL
+- [[API, IMPLEMENTATION]]
+- [[Version Catalog, BuildSrc]]
+- [[Proguard]]
+- [[Task]]
+- [[Signing ]]
 

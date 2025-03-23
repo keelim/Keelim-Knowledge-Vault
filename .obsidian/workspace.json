@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "e6bbcfa14711b696",
+        "id": "7fb53f1cabbe7fb0",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e1b9cf0ed163ca",
+            "id": "c89e6d6b6e8ecc1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Kotlin/Flow/Flow.md",
+                "file": "Other/Security/Asymmetric Encryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow"
+              "title": "Asymmetric Encryption"
+            }
+          },
+          {
+            "id": "2f46bedb783108d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Security/PINNING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PINNING"
+            }
+          },
+          {
+            "id": "f15c4a3523396313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Security/Symmetric Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symmetric Encryption"
+            }
+          },
+          {
+            "id": "38425fd4e4c19aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Security/PINNING.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PINNING"
+            }
+          },
+          {
+            "id": "2b62db6e736e5c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Security/Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Security"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -53,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flow",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +141,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 455.5
   },
   "right": {
     "id": "ed37584d7848e596",
@@ -172,8 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5,
-    "collapsed": true
+    "width": 634.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,40 +241,49 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a0e1b9cf0ed163ca",
+  "active": "2b62db6e736e5c46",
   "lastOpenFiles": [
-    "PINNING.md",
+    "Other/Security/PINNING.md",
+    "Other/Security/Security.md",
+    "Other/Security/Asymmetric Encryption.md",
     "Android.md",
+    "Other/Security/Symmetric Encryption.md",
+    "Other/Security/Android KeyStore.md",
+    "Other/Build/Gradle.md",
+    "Other/Build/Bazile.md",
+    "res/typical app architecture.png",
+    "res/Pasted image 20221106231715.png",
+    "res/Pasted image 20221103003038.png",
+    "res/nodes.png",
+    "Test/coverage test.md",
+    "Test/Jacoco.md",
+    "Test/ui test.md",
+    "Test/unit test.md",
+    "Test/TDD.md",
+    "Applier.md",
+    "SSO.md",
+    "2025-03-23.md",
+    "무제.canvas",
+    "무제 4.canvas",
+    "무제 3.canvas",
+    "무제 2.canvas",
+    "무제 1.canvas",
+    "service/auth/JWT.md",
+    "service/auth/HTTPS.md",
+    "service/auth/FIDO.md",
+    "service/auth/Auth.md",
+    "Computer Science/Algorithms/Bit mask.md",
+    "Language/Kotlin/Flow/Flow.md",
     "RoadMap.canvas",
     "OgTag.md",
     "Index.md",
     "Change List.md",
-    "Asymmetric Encryption.md",
-    "Symmetric Encryption.md",
-    "SSO.md",
     "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
     "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
-    "Books/Jetpack Compose Internals/Jetpack Compose Internals.md",
-    "Books/Jetpack Compose Internals/6. Effects and effect handlers.md",
-    "Books/Android Next Step.md",
-    "Books/Jetpack Compose Internals/4. Compose UI.md",
-    "AI/keelim-ai/AI.md",
-    "AI/keelim-ai/Welcome.md",
     "AI/keelim-ai",
     "AI/note",
-    "Untitled.md",
-    "Books/Jetpack Compose Internals/5. State snapshot system.md",
-    "Books/Jetpack Compose Internals/3. The Compose Runtime.md",
-    "Language/Kotlin/Compose/Compose Internal Keyword.md",
-    "Applier.md",
-    "Slot Table.md",
-    "Gap Buffer.md",
-    "Language/Kotlin/Compose/Compose.md",
-    "Books/Jetpack Compose Internals/2. The Compose Compiler.md",
-    "Books/Jetpack Compose Internals/1. Composable functions.md",
     "compose compiler ir.png",
     "Pasted image 20241025013926.png",
-    "Language/Kotlin/Kotlin.md",
     "Books/Jetpack Compose Internals",
     "Untitled.canvas",
     "Code",
@@ -229,7 +293,6 @@
     "service",
     "Untitled 1.canvas",
     "Language/Kotlin/Version",
-    "Other/Security",
-    "res/Pasted image 20221106231715.png"
+    "Other/Security"
   ]
 }
