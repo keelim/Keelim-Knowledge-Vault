@@ -4,81 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb53f1cabbe7fb0",
+        "id": "2bf176dcdd28d7ad",
         "type": "tabs",
         "children": [
           {
-            "id": "c89e6d6b6e8ecc1a",
+            "id": "28639c1dd9ddd512",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Security/Asymmetric Encryption.md",
+                "file": "Language/Kotlin/Coroutines/Coroutine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asymmetric Encryption"
+              "title": "Coroutine"
             }
           },
           {
-            "id": "2f46bedb783108d5",
+            "id": "b5671731358a9e49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Security/PINNING.md",
+                "file": "Coroutine Exception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PINNING"
-            }
-          },
-          {
-            "id": "f15c4a3523396313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Security/Symmetric Encryption.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Symmetric Encryption"
-            }
-          },
-          {
-            "id": "38425fd4e4c19aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Security/PINNING.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PINNING"
-            }
-          },
-          {
-            "id": "2b62db6e736e5c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other/Security/Security.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Security"
+              "title": "Coroutine Exception"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +85,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -145,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 455.5,
+    "collapsed": true
   },
   "right": {
     "id": "ed37584d7848e596",
@@ -228,10 +187,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634.5
+    "width": 634.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -241,45 +202,46 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2b62db6e736e5c46",
+  "active": "b5671731358a9e49",
   "lastOpenFiles": [
+    "Coroutine Exception.md",
+    "Language/Kotlin/Coroutines/Coroutine.md",
+    "무제.base",
+    "temp.md",
     "Other/Security/PINNING.md",
+    "Other/Security/Symmetric Encryption.md",
     "Other/Security/Security.md",
+    "Other/Build/Gradle.md",
+    "Computer Science/Algorithms/Algorithms.md",
+    "mutableStateOf.md",
+    "State.md",
+    "State Hoisting.md",
+    "Index.md",
+    "digest.md",
+    "salt.md",
+    "snapshotFlow.md",
+    "derivedStateOf.md",
+    "rememberSaveable.md",
+    "Other/Conference/Build with AI.md",
+    "Computer Science/Algorithms/무제.md",
+    "service/auth/Auth.md",
+    "OTP.md",
+    "Other/Build/Bazile.md",
+    "Other/Conference/Google IO 2024/Android 개발자를 위한 새로운 기능.md",
+    "Other/Conference/Google IO 2024/Android 개발 도구의 새로운 기능.md",
     "Other/Security/Asymmetric Encryption.md",
     "Android.md",
-    "Other/Security/Symmetric Encryption.md",
-    "Other/Security/Android KeyStore.md",
-    "Other/Build/Gradle.md",
-    "Other/Build/Bazile.md",
     "res/typical app architecture.png",
     "res/Pasted image 20221106231715.png",
     "res/Pasted image 20221103003038.png",
     "res/nodes.png",
-    "Test/coverage test.md",
-    "Test/Jacoco.md",
-    "Test/ui test.md",
-    "Test/unit test.md",
-    "Test/TDD.md",
-    "Applier.md",
-    "SSO.md",
-    "2025-03-23.md",
     "무제.canvas",
     "무제 4.canvas",
     "무제 3.canvas",
     "무제 2.canvas",
     "무제 1.canvas",
-    "service/auth/JWT.md",
-    "service/auth/HTTPS.md",
-    "service/auth/FIDO.md",
-    "service/auth/Auth.md",
-    "Computer Science/Algorithms/Bit mask.md",
-    "Language/Kotlin/Flow/Flow.md",
     "RoadMap.canvas",
-    "OgTag.md",
-    "Index.md",
-    "Change List.md",
     "Books/Jetpack Compose Internals/Pasted image 20241025092401.png",
-    "Books/Jetpack Compose Internals/7. Advanced Compose Runtime use cases.md",
     "AI/keelim-ai",
     "AI/note",
     "compose compiler ir.png",
@@ -292,7 +254,6 @@
     "service/auth",
     "service",
     "Untitled 1.canvas",
-    "Language/Kotlin/Version",
-    "Other/Security"
+    "Language/Kotlin/Version"
   ]
 }

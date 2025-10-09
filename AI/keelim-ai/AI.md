@@ -7,3 +7,5 @@ word book
 
 ### reference 
 https://www.promptingguide.ai/
+
+[[생성형AI]]

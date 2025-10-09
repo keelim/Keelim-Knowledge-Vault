@@ -66,7 +66,7 @@
 - Forward Proxy
 - Reserve Proxy
 - password
-- salt
+- [[salt]]
 - microservice architecture
 - CDN
 - Cloudflare

@@ -1,0 +1,1 @@
+Configuration Change 에서도 살아있는 상태 (ViewModel 있는데?)
