@@ -1,4 +1,4 @@
-Json Web Token
+[[Json]] Web Token
 - Header
 - Data
 - Signature
